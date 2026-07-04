@@ -6,4 +6,6 @@
 - 💬 Ask me about agile methodologies
 - ⚡ Fun fact: Lived in multiple countries. Side effects include: extreme adaptability, cultural curiosity and the mystical ability to recreate my favorite food anywhere
 
+[![mreyes-m's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mreyes-m?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 
